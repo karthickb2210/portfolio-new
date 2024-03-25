@@ -1,5 +1,5 @@
 // @flow strict
-
+import Link from 'next/link';
 import * as React from 'react';
 
 function ProjectCard({ project }) {
@@ -18,7 +18,7 @@ function ProjectCard({ project }) {
         </div>
         <p className="text-center ml-3 text-[#16f2b3] text-base lg:text-xl">
           {project.name}
-          <a href={project.link}><h1> [ Live Link ]</h1></a>
+          <Link href={project.link}><br></br><span> [ Live Link ]</span></Link>
         </p>
         
       </div>
