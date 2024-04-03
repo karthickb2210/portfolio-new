@@ -26,26 +26,17 @@ export const projectsData = [
         demo: '',
         image: travel,
     },
-    // {
-    //     id: 3,
-    //     name: 'AI Powered Real Estate',
-    //     description: 'My team built an AI-based real estate app using Replicate API and OpenAI. We used Express, Typescript, OpenAI, Replicate, Stripe, and Mongoose to develop the API. We utilized NextJS, Formik, TailwindCSS, and other npm libraries for the UI. We have trained multiple AI assistants using the latest GPT model and integrated Replicate API for image processing. We added role-based auth, subscription plans, Cron job scheduling, and payment integration with Stripe.',
-    //     tools: ['React', 'Bootstrap', 'SCSS', 'Stripe', 'Express', 'TypeScript', 'MongoDB', 'Azure Blob', 'OpenAI API', 'Replicate AI', 'Cronjob', 'JWT'],
-    //     code: '',
-    //     role: 'Full Stack Developer',
-    //     demo: '',
-    //     image: realEstate,
-    // },
-    // {
-    //     id: 4,
-    //     name: 'Newsroom Management',
-    //     description: "My team and I developed a newspaper management dashboard application called Newsroom Management. As a front-end developer, I worked on creating the dashboard using NextJS, Material UI, Redux, Calendar, and other necessary npm libraries. We used React Redux to manage the application's state and React-hook-form and Sun Editor to handle forms.",
-    //     tools: ['NextJS', 'Material UI', 'Redux', 'Sun Editor', "Calendar"],
-    //     code: '',
-    //     demo: '',
-    //     image: ayla,
-    //     role: 'Full Stack Developer',
-    // }
+    {
+        id: 3,
+        name: 'Project Management App',
+        description: 'My team built an AI-based real estate app using Replicate API and OpenAI. We used Express, Typescript, OpenAI, Replicate, Stripe, and Mongoose to develop the API. We utilized NextJS, Formik, TailwindCSS, and other npm libraries for the UI. We have trained multiple AI assistants using the latest GPT model and integrated Replicate API for image processing. We added role-based auth, subscription plans, Cron job scheduling, and payment integration with Stripe.',
+        tools: ['React','Node Js', 'Express', 'MongoDb', 'Tailwind Css', 'Javscript','Mongoose'],
+        code: '',
+        role: 'Full Stack Developer',
+        link:"https://react-projectmanagement-app.netlify.app/",
+        demo: '',
+        image: realEstate,
+    }
 ];
 
 

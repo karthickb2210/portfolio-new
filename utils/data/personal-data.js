@@ -6,10 +6,8 @@ export const personalData = {
   phone: '+919092052012',
   address: 'Chennai, India - 600011 ',
   github: 'https://github.com/karthickb2210',
-  //facebook: 'https://www.facebook.com/abusaid.riyaz/',
   linkedIn: 'https://www.linkedin.com/in/karthickb2210/',
   twitter: 'https://twitter.com/karthickb2210',
-  //stackOverflow: 'https://stackoverflow.com/users/16840768/abu-said',
   leetcode: "https://leetcode.com/karthickb2210/",
   devUsername: "Karthickb2210",
   resume: "https://drive.google.com/file/d/18hLMHXmQeNjUGXb7tNbIc6a3uR9S6ZO8/view?usp=sharing"
