@@ -29,7 +29,7 @@ export const projectsData = [
     {
         id: 3,
         name: 'Project Management App',
-        description: 'My team built an AI-based real estate app using Replicate API and OpenAI. We used Express, Typescript, OpenAI, Replicate, Stripe, and Mongoose to develop the API. We utilized NextJS, Formik, TailwindCSS, and other npm libraries for the UI. We have trained multiple AI assistants using the latest GPT model and integrated Replicate API for image processing. We added role-based auth, subscription plans, Cron job scheduling, and payment integration with Stripe.',
+        description: 'Created a site that manages the project that are assigned to a team and the projects will aslo contains many micro-tasks that can be checked and marked within the inside of the project. It is created using basic frontend react and hooks for state management',
         tools: ['React','Node Js', 'Express', 'MongoDb', 'Tailwind Css', 'Javscript','Mongoose'],
         code: '',
         role: 'Full Stack Developer',
